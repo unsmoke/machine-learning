@@ -1,0 +1,19 @@
+1. Pembahasan mengenai Notion baru yang dibuat oleh Luna dan pengajaran kepada anggota tim lainnya.
+2. Penyelesaian masalah terkait penentuan personalisasi secara bertahap.
+3. Perlunya konfirmasi tentang metode bertahap dengan pendekatan "sekarang merokok, besok tidak, sekarang merokok, besok tidak".
+4. Identifikasi masalah dalam pendekatan linear ketika jumlah rokok kurang dari durasi hari.
+5. Strategi untuk mengatasi jumlah rokok yang kurang dari jumlah hari dalam rencana, termasuk penentuan interval pengurangan (per hari, per minggu, per dua hari, atau per bulan).
+6. Rencana untuk mengonfirmasi metode dengan konsultasi ke ahli (Luna, Farid, Nathan) di FK ITS, serta pertanyaan ke call center rokok (Bang Romzi yang menghubungi). Pertanyaan perlu dirumuskan dengan baik agar terkesan datang dari kita.
+7. Ide baru tentang metode pengurangan rokok berdasarkan kemampuan perokok, dengan mengubah batas maksimal rokok harian berdasarkan konsumsi rokok hari sebelumnya.
+8. Kebingungan mengenai keberadaan juri teknikal seperti ML, MD, dan CC.
+9. Penggunaan algoritma genetika untuk prediksi.
+10. Ide logo yang berbasis gambar paru-paru.
+11. Keputusan untuk membuat akun Instagram dengan pengurus Andi dan Luna.
+12. Pembagian tugas:
+   - Andi → MD
+   - Nathan → CC: Logika
+13. Tugas spesifik:
+   - Ivan: Dua jenis latihan pernapasan untuk relaksasi dan peningkatan kesehatan
+   - Jasmine: Tantangan harian yang ditampilkan, evaluasi hingga hari ke-60 KKM
+   - Ivan: Relaksasi untuk mengatasi stres dan pengelolaan relaps
+14. Prototipe: Tipe dropdown untuk pertanyaan-pertanyaan.
