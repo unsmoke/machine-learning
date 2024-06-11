@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:datacite="http://datacite.org/schema/kernel-4"
+           xmlns:dlcm="http://www.dlcm.ch/dlcm/v2"
+           xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output"
+           xmlns:premis="http://www.loc.gov/premis/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           LABEL="Stop-tabac smartphone app for smoking cessation: randomized trial"
+           OBJID="d8d9b746-3fe4-4077-a4f3-552154c16699"
+           PROFILE="dlcm_profile-2.1.xml"
+           TYPE="aip">
+   <mets:metsHdr CREATEDATE="2022-05-19T08:56:48.532Z"
+                 LASTMODDATE="2022-05-19T09:23:26.526Z">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>DLCM</mets:name>
+         <mets:note>preingest</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="_1">
+      <mets:mdWrap CHECKSUM="0A972E7E818219977EB980E57F3C2DDF0992EC001A2036DC73F0BA65E526B07B"
+                   CHECKSUMTYPE="SHA-256"
+                   CREATED="2022-05-19T09:23:26.526Z"
+                   ID="_13"
+                   MDTYPE="OTHER"
+                   MDTYPEVERSION="DataCite Metadata Schema 4.3 (dlcm_datacite-2.0.xsd)"
+                   MIMETYPE="text/xml"
+                   OTHERMDTYPE="DataCite"
+                   SIZE="4090">
+         <mets:xmlData>
+            <datacite:resource>
+               <datacite:identifier identifierType="DOI">10.26037/yareta:hcxgkpv74jgebmoz4natifwt7y</datacite:identifier>
+               <datacite:creators>
+                  <datacite:creator>
+                     <datacite:creatorName nameType="Personal">Etter, Jean-François</datacite:creatorName>
+                     <datacite:givenName>Jean-François</datacite:givenName>
+                     <datacite:familyName>Etter</datacite:familyName>
+                     <datacite:nameIdentifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                              nameIdentifierScheme="ORCID"
+                                              schemeURI="http://orcid.org/"
+                                              xsi:type="datacite:nameIdentifier">0000-0002-1426-3157</datacite:nameIdentifier>
+                     <datacite:affiliation>Université de Genève</datacite:affiliation>
+                  </datacite:creator>
+               </datacite:creators>
+               <datacite:titles>
+                  <datacite:title>Stop-tabac smartphone app for smoking cessation: randomized trial</datacite:title>
+               </datacite:titles>
+               <datacite:publisher>Université de Genève, Yareta</datacite:publisher>
+               <datacite:publicationYear>2022</datacite:publicationYear>
+               <datacite:resourceType resourceTypeGeneral="Dataset">DATASET</datacite:resourceType>
+               <datacite:subjects>
+                  <datacite:subject subjectScheme="keywords" xml:lang="en">Smoking;smartphone;application;cessation</datacite:subject>
+               </datacite:subjects>
+               <datacite:dates>
+                  <datacite:date dateType="Issued">2022-05-19T00:00:00Z</datacite:date>
+                  <datacite:date dateType="Collected">2019-04-10T00:00:00Z/2020-11-30T00:00:00Z</datacite:date>
+                  <datacite:date dateType="Created">2022-05-19T08:56:48.532Z</datacite:date>
+                  <datacite:date dateType="Updated">2022-05-19T09:23:25.989Z</datacite:date>
+                  <datacite:date dateType="Accepted">2022-05-19T09:23:26.346Z</datacite:date>
+               </datacite:dates>
+               <datacite:relatedIdentifiers>
+                  <datacite:relatedIdentifier relatedIdentifierType="Handle" relationType="IsPartOf">5f0d36e7-9ae6-4ffc-bd7b-97a6a1250927</datacite:relatedIdentifier>
+               </datacite:relatedIdentifiers>
+               <datacite:formats>
+                  <datacite:format>text/plain</datacite:format>
+                  <datacite:format>application/octet-stream</datacite:format>
+                  <datacite:format>text/xml</datacite:format>
+               </datacite:formats>
+               <datacite:rightsList>
+                  <datacite:rights rightsURI="https://www.dlcm.ch/access-level/final">PUBLIC</datacite:rights>
+                  <datacite:rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</datacite:rights>
+                  <datacite:rights rightsURI="https://www.dlcm.ch/data-tag">BLUE</datacite:rights>
+               </datacite:rightsList>
+               <datacite:descriptions>
+                  <datacite:description descriptionType="Abstract" xml:lang="en">These are the data in SPSS format (with value labels and variable labels) and the SPSS syntax file from a randomized trial testing the efficacy of the Stop-tabac application for smartphones (main outcome: smoking cessation), the comparison group received a control application. 
+The baseline and follow-up questionnaires are available here:
+https://archive.org/details/@stopdependance_ch
+The results and protocol are published here: 
+Etter JF, Khazaal Y. The Stop-tabac smartphone application for smoking cessation: a randomized controlled trial. Addiction. 2022 May;117(5):1406-1415. doi: 10.1111/add.15738. 
+and
+Etter JF, Khazaal Y. The Stop-Tabac smartphone application for smoking cessation: study protocol for a randomized controlled trial in the general population. Trials. 2020 Jun 1;21(1):449. doi: 10.1186/s13063-020-04377-0..  </datacite:description>
+               </datacite:descriptions>
+            </datacite:resource>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="_2">
+      <mets:digiprovMD ID="_14" STATUS="current">
+         <mets:mdWrap CHECKSUM="90F76C9E939DF2E64F9C72CB19D109444E615066DF3D50A6CB469A44C47A7FC2"
+                      CHECKSUMTYPE="SHA-256"
+                      CREATED="2022-05-19T09:23:29.058Z"
+                      ID="_15"
+                      MDTYPE="PREMIS"
+                      MDTYPEVERSION="PREMIS version 3.0"
+                      MIMETYPE="text/xml"
+                      OTHERMDTYPE="premis-3.0.xsd"
+                      SIZE="25060">
+            <mets:xmlData>
+               <premis:premis version="3.0">
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:intellectualEntity">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.deposits</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>38ae653e-bfe2-4c40-b1d9-e3413416d3fe</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:originalName>Stop-tabac smartphone app for smoking cessation: randomized trial</premis:originalName>
+                  </premis:object>
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:file">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.data</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>1ab9e90f-2694-4d8b-bdfd-3e38528ffdbf</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.mets</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>_9</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:objectCharacteristics>
+                        <premis:compositionLevel>0</premis:compositionLevel>
+                        <premis:fixity>
+                           <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                           <premis:messageDigest>c31d0260d571b7543a03db6db53c6784</premis:messageDigest>
+                           <premis:messageDigestOriginator>DLCM</premis:messageDigestOriginator>
+                        </premis:fixity>
+                        <premis:fixity>
+                           <premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm>
+                           <premis:messageDigest>18b3032b5e22b2d25bf7eaf16eecaf94f045a597</premis:messageDigest>
+                           <premis:messageDigestOriginator>DLCM</premis:messageDigestOriginator>
+                        </premis:fixity>
+                        <premis:fixity>
+                           <premis:messageDigestAlgorithm>SHA-256</premis:messageDigestAlgorithm>
+                           <premis:messageDigest>e3e3c70c6b308ba9ca07399423ef0bd7956395975f861d5018e55ddbb2d0630d</premis:messageDigest>
+                           <premis:messageDigestOriginator>DLCM</premis:messageDigestOriginator>
+                        </premis:fixity>
+                        <premis:size>31185</premis:size>
+                        <premis:format>
+                           <premis:formatDesignation>
+                              <premis:formatName>Plain text</premis:formatName>
+                           </premis:formatDesignation>
+                           <premis:formatRegistry>
+                              <premis:formatRegistryName>PRONOM</premis:formatRegistryName>
+                              <premis:formatRegistryKey></premis:formatRegistryKey>
+                           </premis:formatRegistry>
+                        </premis:format>
+                        <premis:objectCharacteristicsExtension>
+                           <dlcm:dlcmInfo>
+                              <dlcm:complianceLevel>3</dlcm:complianceLevel>
+                              <dlcm:dataClassification category="PrimaryData">Reference</dlcm:dataClassification>
+                           </dlcm:dlcmInfo>
+                        </premis:objectCharacteristicsExtension>
+                        <premis:objectCharacteristicsExtension>
+                           <fits:fits timestamp="5/19/22, 11:08 AM" version="1.5.0">
+                              <fits:identification>
+                                 <fits:identity format="Plain text"
+                                                mimetype="text/plain"
+                                                toolname="FITS"
+                                                toolversion="1.5.0">
+                                    <fits:tool toolname="Jhove" toolversion="1.20.1"/>
+                                    <fits:tool toolname="file utility" toolversion="5.35"/>
+                                 </fits:identity>
+                              </fits:identification>
+                              <fits:fileinfo>
+                                 <fits:size toolname="Jhove" toolversion="1.20.1">31185</fits:size>
+                                 <fits:filepath status="SINGLE_RESULT"
+                                                toolname="OIS File Information"
+                                                toolversion="1.0">/opt/dlcm/nodes/0-ingestion/deposits/38ae653e-bfe2-4c40-b1d9-e3413416d3fe/researchdata/Syntax Smartphone 2020 11 24 (1).sps</fits:filepath>
+                                 <fits:filename status="SINGLE_RESULT"
+                                                toolname="OIS File Information"
+                                                toolversion="1.0">Syntax Smartphone 2020 11 24 (1).sps</fits:filename>
+                                 <fits:md5checksum status="SINGLE_RESULT"
+                                                   toolname="OIS File Information"
+                                                   toolversion="1.0">c31d0260d571b7543a03db6db53c6784</fits:md5checksum>
+                                 <fits:fslastmodified status="SINGLE_RESULT"
+                                                      toolname="OIS File Information"
+                                                      toolversion="1.0">1652951293914</fits:fslastmodified>
+                              </fits:fileinfo>
+                              <fits:filestatus>
+                                 <fits:well-formed status="SINGLE_RESULT" toolname="Jhove" toolversion="1.20.1">true</fits:well-formed>
+                                 <fits:valid status="SINGLE_RESULT" toolname="Jhove" toolversion="1.20.1">true</fits:valid>
+                                 <fits:message status="SINGLE_RESULT" toolname="Jhove" toolversion="1.20.1">UTF-8 Byte Order Mark signature is present severity=info offset=0</fits:message>
+                              </fits:filestatus>
+                              <fits:metadata>
+                                 <fits:text>
+                                    <linebreak xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output"
+                                               toolname="Jhove"
+                                               toolversion="1.20.1">CR/LF</linebreak>
+                                    <charset xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output"
+                                             toolname="Jhove"
+                                             toolversion="1.20.1">UTF-8</charset>
+                                    <standard xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+                                       <textMD:textMD xmlns:textMD="info:lc/xmlns/textMD-v3">
+                                          <textMD:character_info>
+                                             <textMD:charset>UTF-8</textMD:charset>
+                                             <textMD:linebreak>CR/LF</textMD:linebreak>
+                                          </textMD:character_info>
+                                       </textMD:textMD>
+                                    </standard>
+                                 </fits:text>
+                              </fits:metadata>
+                              <fits:statistics fitsExecutionTime="229">
+                                 <fits:tool status="did not run" toolname="MediaInfo" toolversion="0.7.75"/>
+                                 <fits:tool status="did not run"
+                                            toolname="OIS Audio Information"
+                                            toolversion="0.1"/>
+                                 <fits:tool status="did not run" toolname="ADL Tool" toolversion="0.1"/>
+                                 <fits:tool status="did not run" toolname="VTT Tool" toolversion="0.1"/>
+                                 <fits:tool executionTime="73" toolname="Droid" toolversion="6.4"/>
+                                 <fits:tool executionTime="154" toolname="Jhove" toolversion="1.20.1"/>
+                                 <fits:tool executionTime="202" toolname="file utility" toolversion="5.35"/>
+                                 <fits:tool executionTime="213" toolname="Exiftool" toolversion="11.54"/>
+                                 <fits:tool status="did not run"
+                                            toolname="NLNZ Metadata Extractor"
+                                            toolversion="3.6GA"/>
+                                 <fits:tool executionTime="2" toolname="OIS File Information" toolversion="1.0"/>
+                                 <fits:tool status="did not run" toolname="OIS XML Metadata" toolversion="0.2"/>
+                                 <fits:tool executionTime="52" toolname="ffident" toolversion="0.2"/>
+                                 <fits:tool executionTime="174" toolname="Tika" toolversion="1.21"/>
+                              </fits:statistics>
+                           </fits:fits>
+                        </premis:objectCharacteristicsExtension>
+                     </premis:objectCharacteristics>
+                     <premis:originalName>Syntax Smartphone 2020 11 24 (1).sps</premis:originalName>
+                  </premis:object>
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:file">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.data</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>da9c523e-b830-4ce7-b9e5-41b595300be0</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.mets</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>_11</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:objectCharacteristics>
+                        <premis:compositionLevel>0</premis:compositionLevel>
+                        <premis:fixity>
+                           <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                           <premis:messageDigest>f2bd521f00f0042d84bbfc335a489430</premis:messageDigest>
+                           <premis:messageDigestOriginator>DLCM</premis:messageDigestOriginator>
+                        </premis:fixity>
+                        <premis:fixity>
+                           <premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm>
+                           <premis:messageDigest>16aad636e9cfc900bc65d6149aeb442c58997ed2</premis:messageDigest>
+                           <premis:messageDigestOriginator>DLCM</premis:messageDigestOriginator>
+                        </premis:fixity>
+                        <premis:fixity>
+                           <premis:messageDigestAlgorithm>SHA-256</premis:messageDigestAlgorithm>
+                           <premis:messageDigest>d8ec639e01a829bd5e0161a1109607a219ed669d32d19bb4cb5e71dd7ee63bd8</premis:messageDigest>
+                           <premis:messageDigestOriginator>DLCM</premis:messageDigestOriginator>
+                        </premis:fixity>
+                        <premis:size>2945846</premis:size>
+                        <premis:format>
+                           <premis:formatDesignation>
+                              <premis:formatName>SPSS Data File</premis:formatName>
+                           </premis:formatDesignation>
+                           <premis:formatRegistry>
+                              <premis:formatRegistryName>PRONOM</premis:formatRegistryName>
+                              <premis:formatRegistryKey>fmt/638</premis:formatRegistryKey>
+                           </premis:formatRegistry>
+                        </premis:format>
+                        <premis:objectCharacteristicsExtension>
+                           <dlcm:dlcmInfo>
+                              <dlcm:complianceLevel>3</dlcm:complianceLevel>
+                              <dlcm:dataClassification category="PrimaryData">Experimental</dlcm:dataClassification>
+                           </dlcm:dlcmInfo>
+                        </premis:objectCharacteristicsExtension>
+                        <premis:objectCharacteristicsExtension>
+                           <fits:fits timestamp="5/19/22, 11:07 AM" version="1.5.0">
+                              <fits:identification status="PARTIAL">
+                                 <fits:identity format="SPSS Data File"
+                                                mimetype="application/octet-stream"
+                                                toolname="FITS"
+                                                toolversion="1.5.0">
+                                    <fits:tool toolname="Droid" toolversion="6.4"/>
+                                    <fits:externalIdentifier toolname="Droid" toolversion="6.4" type="puid">fmt/638</fits:externalIdentifier>
+                                 </fits:identity>
+                              </fits:identification>
+                              <fits:fileinfo>
+                                 <fits:filepath status="SINGLE_RESULT"
+                                                toolname="OIS File Information"
+                                                toolversion="1.0">/opt/dlcm/nodes/0-ingestion/deposits/38ae653e-bfe2-4c40-b1d9-e3413416d3fe/researchdata/Stop-tabac Yareta data 2022 05 19.sav</fits:filepath>
+                                 <fits:filename status="SINGLE_RESULT"
+                                                toolname="OIS File Information"
+                                                toolversion="1.0">Stop-tabac Yareta data 2022 05 19.sav</fits:filename>
+                                 <fits:size status="SINGLE_RESULT"
+                                            toolname="OIS File Information"
+                                            toolversion="1.0">2945846</fits:size>
+                                 <fits:md5checksum status="SINGLE_RESULT"
+                                                   toolname="OIS File Information"
+                                                   toolversion="1.0">f2bd521f00f0042d84bbfc335a489430</fits:md5checksum>
+                                 <fits:fslastmodified status="SINGLE_RESULT"
+                                                      toolname="OIS File Information"
+                                                      toolversion="1.0">1652951247365</fits:fslastmodified>
+                              </fits:fileinfo>
+                              <fits:filestatus/>
+                              <fits:metadata/>
+                              <fits:statistics fitsExecutionTime="2718">
+                                 <fits:tool status="did not run" toolname="MediaInfo" toolversion="0.7.75"/>
+                                 <fits:tool status="did not run"
+                                            toolname="OIS Audio Information"
+                                            toolversion="0.1"/>
+                                 <fits:tool status="did not run" toolname="ADL Tool" toolversion="0.1"/>
+                                 <fits:tool status="did not run" toolname="VTT Tool" toolversion="0.1"/>
+                                 <fits:tool executionTime="253" toolname="Droid" toolversion="6.4"/>
+                                 <fits:tool executionTime="2708" toolname="Jhove" toolversion="1.20.1"/>
+                                 <fits:tool executionTime="817" toolname="file utility" toolversion="5.35"/>
+                                 <fits:tool executionTime="778" toolname="Exiftool" toolversion="11.54"/>
+                                 <fits:tool status="did not run"
+                                            toolname="NLNZ Metadata Extractor"
+                                            toolversion="3.6GA"/>
+                                 <fits:tool executionTime="244"
+                                            toolname="OIS File Information"
+                                            toolversion="1.0"/>
+                                 <fits:tool status="did not run" toolname="OIS XML Metadata" toolversion="0.2"/>
+                                 <fits:tool executionTime="755" toolname="ffident" toolversion="0.2"/>
+                                 <fits:tool executionTime="290" toolname="Tika" toolversion="1.21"/>
+                              </fits:statistics>
+                           </fits:fits>
+                        </premis:objectCharacteristicsExtension>
+                     </premis:objectCharacteristics>
+                     <premis:originalName>Stop-tabac Yareta data 2022 05 19.sav</premis:originalName>
+                  </premis:object>
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:intellectualEntity">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.organizational-units</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>5f0d36e7-9ae6-4ffc-bd7b-97a6a1250927</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:originalName>Etter Tobacco Data</premis:originalName>
+                  </premis:object>
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:intellectualEntity">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.sip</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>7f926c4c-106b-404d-bb42-4d47337fdded</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:originalName>Stop-tabac smartphone app for smoking cessation: randomized trial</premis:originalName>
+                  </premis:object>
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:intellectualEntity">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.aip</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>d8d9b746-3fe4-4077-a4f3-552154c16699</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:preservationLevel>
+                        <premis:preservationLevelType>policy</premis:preservationLevelType>
+                        <premis:preservationLevelValue>retention=10 years;disposition approval=true</premis:preservationLevelValue>
+                     </premis:preservationLevel>
+                     <premis:originalName>Stop-tabac smartphone app for smoking cessation: randomized trial</premis:originalName>
+                  </premis:object>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>38ae653e-bfe2-4c40-b1d9-e3413416d3fe-6362422</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>creation</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T08:56:48.532Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>Creation</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.deposits</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>38ae653e-bfe2-4c40-b1d9-e3413416d3fe</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>38ae653e-bfe2-4c40-b1d9-e3413416d3fe-6362439</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>appraisal</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T09:23:25.962Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>Approved</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.deposits</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>38ae653e-bfe2-4c40-b1d9-e3413416d3fe</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>1ab9e90f-2694-4d8b-bdfd-3e38528ffdbf-6362431</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>creation</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T09:08:12.376Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>Creation</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.data</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>1ab9e90f-2694-4d8b-bdfd-3e38528ffdbf</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>1ab9e90f-2694-4d8b-bdfd-3e38528ffdbf-6362435</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>virus check</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T09:08:14.488Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>Virus scan done by ClamAV 0.103.5</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.data</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>1ab9e90f-2694-4d8b-bdfd-3e38528ffdbf</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>1ab9e90f-2694-4d8b-bdfd-3e38528ffdbf-6362436</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>format identification</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T09:08:14.758Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>File format identification done by FITS 1.5.0</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.data</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>1ab9e90f-2694-4d8b-bdfd-3e38528ffdbf</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>da9c523e-b830-4ce7-b9e5-41b595300be0-6362424</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>creation</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T09:07:25.805Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>Creation</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.data</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>da9c523e-b830-4ce7-b9e5-41b595300be0</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>da9c523e-b830-4ce7-b9e5-41b595300be0-6362428</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>virus check</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T09:07:28.193Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>Virus scan done by ClamAV 0.103.5</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.data</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>da9c523e-b830-4ce7-b9e5-41b595300be0</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>da9c523e-b830-4ce7-b9e5-41b595300be0-6362429</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>format identification</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T09:07:37.498Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>File format identification done by FITS 1.5.0</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.data</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>da9c523e-b830-4ce7-b9e5-41b595300be0</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>Linux</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>amd64</premis:agentType>
+                     <premis:agentVersion>4.19.0-20-amd64</premis:agentVersion>
+                  </premis:agent>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>AdoptOpenJDK</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>Software</premis:agentType>
+                     <premis:agentVersion>1.8.0_275</premis:agentVersion>
+                     <premis:agentExtension>
+                        <java.home>/usr/lib/jvm/adoptopenjdk-8-hotspot-amd64/jre</java.home>
+                     </premis:agentExtension>
+                     <premis:agentExtension>
+                        <java.class.path>/opt/dlcm/war/dlcm-solution.war</java.class.path>
+                     </premis:agentExtension>
+                  </premis:agent>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>DLCM</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>Software</premis:agentType>
+                     <premis:agentVersion>2.0.19</premis:agentVersion>
+                  </premis:agent>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>FITS</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>Software</premis:agentType>
+                     <premis:agentVersion>1.5.0</premis:agentVersion>
+                  </premis:agent>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>ClamAV</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>Software</premis:agentType>
+                     <premis:agentVersion>0.103.5</premis:agentVersion>
+                  </premis:agent>
+               </premis:premis>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec ID="_3">
+      <mets:fileGrp ID="_6" USE="DLCM Files Root">
+         <mets:fileGrp ID="_7" USE="researchData">
+            <mets:file ID="_9">
+               <mets:FLocat ID="_10"
+                            LOCTYPE="URL"
+                            xlink:href="researchdata/Syntax Smartphone 2020 11 24 (1).sps"
+                            xlink:type="simple"/>
+            </mets:file>
+            <mets:file ID="_11">
+               <mets:FLocat ID="_12"
+                            LOCTYPE="URL"
+                            xlink:href="researchdata/Stop-tabac Yareta data 2022 05 19.sav"
+                            xlink:type="simple"/>
+            </mets:file>
+         </mets:fileGrp>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap ID="_4" LABEL="DLCM Structural Map" TYPE="physical">
+      <mets:div ID="_5" LABEL="root">
+         <mets:div ID="_8" LABEL="researchData">
+            <mets:fptr FILEID="_10"/>
+            <mets:fptr FILEID="_12"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+</mets:mets>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:datacite="http://datacite.org/schema/kernel-4"
+           xmlns:dlcm="http://www.dlcm.ch/dlcm/v2"
+           xmlns:fits="http://hul.harvard.edu/ois/xml/ns/fits/fits_output"
+           xmlns:premis="http://www.loc.gov/premis/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           LABEL="d8d9b746-3fe4-4077-a4f3-552154c16699"
+           OBJID="eeb9122d-e7b2-470b-ab9a-8c436a2a6f80"
+           PROFILE="dlcm_profile-2.1.xml"
+           TYPE="dip">
+   <mets:metsHdr CREATEDATE="2022-05-19T21:33:23.108Z"
+                 LASTMODDATE="2022-05-19T21:33:28.335Z">
+      <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+         <mets:name>DLCM</mets:name>
+         <mets:note>access</mets:note>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="_1">
+      <mets:mdWrap CHECKSUM="6D20271B8F10406CAB2491EBEA2147E757D37E9F887051992737A5356DDA6A21"
+                   CHECKSUMTYPE="SHA-256"
+                   CREATED="2022-05-19T21:33:28.525Z"
+                   ID="_7"
+                   MDTYPE="OTHER"
+                   MDTYPEVERSION="DataCite Metadata Schema 4.3 (dlcm_datacite-2.0.xsd)"
+                   MIMETYPE="text/xml"
+                   OTHERMDTYPE="DataCite"
+                   SIZE="2105">
+         <mets:xmlData>
+            <datacite:resource>
+               <datacite:identifier identifierType="DLCM">2efb4ecb-3b01-432c-906e-ad71c555b623</datacite:identifier>
+               <datacite:creators>
+                  <datacite:creator>
+                     <datacite:creatorName nameType="Personal">dlcm-trusted-administration</datacite:creatorName>
+                  </datacite:creator>
+               </datacite:creators>
+               <datacite:titles>
+                  <datacite:title>d8d9b746-3fe4-4077-a4f3-552154c16699</datacite:title>
+               </datacite:titles>
+               <datacite:publisher>Université de Genève, Yareta</datacite:publisher>
+               <datacite:publicationYear>2022</datacite:publicationYear>
+               <datacite:resourceType resourceTypeGeneral="Dataset">DATASET</datacite:resourceType>
+               <datacite:dates>
+                  <datacite:date dateType="Created">2022-05-19T23:33:23.108+02:00</datacite:date>
+               </datacite:dates>
+               <datacite:relatedIdentifiers>
+                  <datacite:relatedIdentifier relatedIdentifierType="Handle" relationType="IsPartOf">5f0d36e7-9ae6-4ffc-bd7b-97a6a1250927</datacite:relatedIdentifier>
+                  <datacite:relatedIdentifier relatedIdentifierType="Handle" relationType="HasPart">[d8d9b746-3fe4-4077-a4f3-552154c16699] Stop-tabac smartphone app for smoking cessation: randomized trial</datacite:relatedIdentifier>
+               </datacite:relatedIdentifiers>
+               <datacite:formats>
+                  <datacite:format>application/zip</datacite:format>
+               </datacite:formats>
+               <datacite:rightsList>
+                  <datacite:rights rightsURI="https://www.dlcm.ch/access-level/final">PUBLIC</datacite:rights>
+               </datacite:rightsList>
+               <datacite:descriptions>
+                  <datacite:description descriptionType="Abstract">[DIRECT] d8d9b746-3fe4-4077-a4f3-552154c16699</datacite:description>
+               </datacite:descriptions>
+            </datacite:resource>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="_2">
+      <mets:digiprovMD ID="_12" STATUS="current">
+         <mets:mdWrap CHECKSUM="4B9AFF7E88BA59A86A7F5F4CCD3233D3737CBA86E705940C1A20CFA9703C4F37"
+                      CHECKSUMTYPE="SHA-256"
+                      CREATED="2022-05-19T21:33:28.540Z"
+                      ID="_13"
+                      MDTYPE="PREMIS"
+                      MDTYPEVERSION="PREMIS version 3.0"
+                      MIMETYPE="text/xml"
+                      OTHERMDTYPE="premis-3.0.xsd"
+                      SIZE="4213">
+            <mets:xmlData>
+               <premis:premis version="3.0">
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:intellectualEntity">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.orders</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>eeb9122d-e7b2-470b-ab9a-8c436a2a6f80</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:originalName>d8d9b746-3fe4-4077-a4f3-552154c16699</premis:originalName>
+                  </premis:object>
+                  <premis:object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 xsi:type="premis:file">
+                     <premis:objectIdentifier>
+                        <premis:objectIdentifierType>dlcm.aip</premis:objectIdentifierType>
+                        <premis:objectIdentifierValue>d8d9b746-3fe4-4077-a4f3-552154c16699</premis:objectIdentifierValue>
+                     </premis:objectIdentifier>
+                     <premis:objectCharacteristics>
+                        <premis:compositionLevel>0</premis:compositionLevel>
+                        <premis:size>716967</premis:size>
+                        <premis:format>
+                           <premis:formatDesignation>
+                              <premis:formatName>ZIP Format</premis:formatName>
+                              <premis:formatVersion>2.0</premis:formatVersion>
+                           </premis:formatDesignation>
+                           <premis:formatRegistry>
+                              <premis:formatRegistryName>PRONOM</premis:formatRegistryName>
+                              <premis:formatRegistryKey>x-fmt/263</premis:formatRegistryKey>
+                           </premis:formatRegistry>
+                        </premis:format>
+                     </premis:objectCharacteristics>
+                     <premis:originalName/>
+                  </premis:object>
+                  <premis:event>
+                     <premis:eventIdentifier>
+                        <premis:eventIdentifierType>dlcm</premis:eventIdentifierType>
+                        <premis:eventIdentifierValue>eeb9122d-e7b2-470b-ab9a-8c436a2a6f80-22489</premis:eventIdentifierValue>
+                     </premis:eventIdentifier>
+                     <premis:eventType>creation</premis:eventType>
+                     <premis:eventDateTime>2022-05-19T21:33:23.108Z</premis:eventDateTime>
+                     <premis:eventDetailInformation>
+                        <premis:eventDetail>Creation</premis:eventDetail>
+                     </premis:eventDetailInformation>
+                     <premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifierType>dlcm.orders</premis:linkingObjectIdentifierType>
+                        <premis:linkingObjectIdentifierValue>eeb9122d-e7b2-470b-ab9a-8c436a2a6f80</premis:linkingObjectIdentifierValue>
+                     </premis:linkingObjectIdentifier>
+                  </premis:event>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>Linux</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>amd64</premis:agentType>
+                     <premis:agentVersion>4.19.0-20-amd64</premis:agentVersion>
+                  </premis:agent>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>AdoptOpenJDK</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>Software</premis:agentType>
+                     <premis:agentVersion>1.8.0_275</premis:agentVersion>
+                     <premis:agentExtension>
+                        <java.home>/usr/lib/jvm/adoptopenjdk-8-hotspot-amd64/jre</java.home>
+                     </premis:agentExtension>
+                     <premis:agentExtension>
+                        <java.class.path>/opt/dlcm/war/dlcm-solution.war</java.class.path>
+                     </premis:agentExtension>
+                  </premis:agent>
+                  <premis:agent>
+                     <premis:agentIdentifier>
+                        <premis:agentIdentifierType>DLCM</premis:agentIdentifierType>
+                        <premis:agentIdentifierValue>DLCM</premis:agentIdentifierValue>
+                     </premis:agentIdentifier>
+                     <premis:agentType>Software</premis:agentType>
+                     <premis:agentVersion>2.0.19</premis:agentVersion>
+                  </premis:agent>
+               </premis:premis>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec ID="_3">
+      <mets:fileGrp ID="_6" USE="DLCM Files Root">
+         <mets:fileGrp ID="_8" USE="researchData">
+            <mets:file ID="_10">
+               <mets:FLocat ID="_11"
+                            LOCTYPE="URL"
+                            xlink:href="d8d9b746-3fe4-4077-a4f3-552154c16699"
+                            xlink:type="simple"/>
+            </mets:file>
+         </mets:fileGrp>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap ID="_4" LABEL="DLCM Structural Map" TYPE="physical">
+      <mets:div ID="_5" LABEL="root">
+         <mets:div ID="_9" LABEL="researchData">
+            <mets:fptr FILEID="_11"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+</mets:mets>
